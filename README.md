@@ -1,2 +1,2 @@
 # localizaAi-
-Site de horários de ônibus locais 
+Projeto de consulta de horários de vans e ônibus da região.
